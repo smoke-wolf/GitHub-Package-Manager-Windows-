@@ -39,8 +39,8 @@ Writeup(https://www.publishthis.email/github-package-manager-Bki9Ejbhi) here:
 
 ## Downloading & Installing
 
-	git clone https://github.com/smoke-wolf/GitHub-Package-Manager.git
-	cd GitHub-Package-Manager
+	git clone https://github.com/smoke-wolf/GitHub-Package-Manager-Windows-.git
+	cd GitHub-Package-Manager-Windows-
 	python3 Start.py
 
 **First Use:**
